@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.divs {
+    display: inline-block;
+    padding-left: 15px;
+    margin-left: 50px;
+}
+
